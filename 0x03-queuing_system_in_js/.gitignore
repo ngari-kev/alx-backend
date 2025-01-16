@@ -1,0 +1,4 @@
+node_modules
+package-lock.json
+redis*
+install_redis.sh
